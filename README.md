@@ -1,6 +1,7 @@
 # Calculatrice Scientifique
 
 Un projet de calculatrice scientifique avec des fonctionnalités avancées comprenant des opérations mathématiques, statistiques et de visualisation.
+L'objectif est d'implementer tout type de test via pytest & Unitest pour chaque methode/fonction
 
 ## Fonctionnalités
 
